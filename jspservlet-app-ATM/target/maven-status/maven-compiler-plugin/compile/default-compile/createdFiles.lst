@@ -1,6 +1,0 @@
-controller/DepositServlet.class
-service/InterfaceClass.class
-service/AmountDetails.class
-model/AccountDetails.class
-controller/WithdrawServlet.class
-controller/BalanceServlet.class
