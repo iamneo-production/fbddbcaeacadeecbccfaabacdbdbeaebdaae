@@ -1,7 +1,7 @@
 package service;
 
 interface InterfaceClass {
-    public abstract double withdrawAmount(double arg1,double arg2);
-	public abstract  double depositAmount(double arg1,double arg2);
-	public abstract double accountBalance(double arg1);
+    abstract public double withdrawAmount(double arg1,double arg2);
+	abstract public double depositAmount(double arg1,double arg2);
+	abstract public double accountBalance(double arg1);
 }
